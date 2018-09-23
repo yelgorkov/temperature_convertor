@@ -1,0 +1,42 @@
+body {
+	background: green;
+}
+h2 {
+	font-size: 30pt;
+	color: #00FFFF;
+	text-align: center;
+}
+#input {
+	width: 500px;
+	margin-top: 10px;
+	padding: 10px;
+	font-size: 20pt;
+	border-radius: 10px;
+	text-align: center;
+}
+#convertedTemperature1, #convertedTemperature2, #convertedTemperature3 {
+	width: 504px;
+	height: 35px;
+	margin-top: 10px;
+	padding: 10px;
+	font-size: 20pt;
+	border-radius: 10px;
+	text-align: center;
+	background-color: Khaki;
+}
+button {
+	width: 200px;
+	margin-top: 10px;
+	padding: 10px;
+	font-size: 20pt;
+	border-radius: 10px;
+	font-weight: bold;
+}
+select {
+	width: 200px;
+	background-color: #FFA07A;
+	margin-top: 10px;
+	padding: 10px;
+	font-size: 20pt;
+	border-radius: 10px;
+}
